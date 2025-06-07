@@ -36,14 +36,7 @@ function App() {
           <h2 className="text-2xl font-semibold mb-2">Projects</h2>
 
           <div className="grid md:grid-cols-2 gap-4">
-            {/* Project 1 */}
-            <div className="bg-white p-4 rounded shadow">
-              <h3 className="text-xl font-bold">Inventory Management System</h3>
-              <p className="text-gray-600 text-sm mb-2">Spring Boot + Oracle DB</p>
-              <p>
-                Built a system to manage product stock, reprint restrictions, maker-checker workflow, and reports.
-              </p>
-            </div>
+   
 
             {/* Project 2 */}
             <div className="bg-white p-4 rounded shadow">
